@@ -1,0 +1,39 @@
+
+/*#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .main-container {
+    display: flex;
+    justify-content:center ;
+    background-color:#da0081;
+    height: 25rem;
+    width: 25rem;
+    border-radius: 25px;
+    padding: 1em;
+  }
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    /* background-color: darkgrey; */
+    /*justify-content: space-around;*/
+  /*}
+  .form-container section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-container input {
+    padding: 5px;
+    border-radius: 25px;
+    height: 1rem;
+  }
+  .form-container button {
+  
+    border-radius: 25px;
+    height: 2rem;
+  }
+  */
